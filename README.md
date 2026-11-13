@@ -1,5 +1,7 @@
 # Computer Security Paper
 
+Final result paper: [Computer Security Paper.pdf](./Computer%20Security%20Paper.pdf)
+
 This repository contains a MATLAB-based simulation study of GNSS/GPS spoofing detection and mitigation using a phased-array receiver. The work models satellite signals, compares normal reception against spoofing conditions, and evaluates filtering and detection strategies based on MVDR beamforming and feature-based classification.
 
 ## Project overview
